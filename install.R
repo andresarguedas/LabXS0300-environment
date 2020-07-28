@@ -1,0 +1,7 @@
+install.packages("tidyverse")
+install.packages("GGally")
+install.packages("car")
+install.packages("pwr")
+install.packages("corrplot")
+install.packages("rmarkdown")
+install.packages("testthat")
